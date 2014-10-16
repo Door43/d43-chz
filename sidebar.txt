@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[chz:home|Door43 (chz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-chz|d43-chz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-chz/archive/master.zip|d43-chz.zip]]
+
+**Recent Changes**
+{{changes>ns = chz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/chz|Ethnologue data]]
+
